@@ -47,7 +47,7 @@ const routes = [
         meta: {
             requiresAuth: true,
         }
-    }, 
+    },
     {
         path: '/admin/education',
         name: 'adminEducation',
@@ -55,7 +55,7 @@ const routes = [
         meta: {
             requiresAuth: true,
         }
-    }, 
+    },
     {
         path: '/admin/experience',
         name: 'adminExperience',
